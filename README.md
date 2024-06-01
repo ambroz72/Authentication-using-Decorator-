@@ -1,4 +1,4 @@
-Django User Authentication System with Decorator-Based Access Control
+# Django User Authentication System with Decorator-Based Access Control
 
 This Django project implements a user authentication system with features like signup, login, and logout functionalities.
 It ensures secure user authentication and access control for web applications, utilizing decorators for enhanced security.
